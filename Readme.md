@@ -1,0 +1,1 @@
+This was compiled with cygwin gcc and requires cygwin1.dll
